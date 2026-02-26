@@ -4,9 +4,9 @@ This repository contains solutions to various Machine Learning lab assignments. 
 
 ## Contents
 
-- **Assignment 1.py**: [Add a brief description of Assignment 1 here.]
-- **Assignment 2.py**: [Add a brief description of Assignment 2 here.]
-- **Assignment 3.py**: [Add a brief description of Assignment 3 here.]
+- **Assignment 1.py**: Calculates the slope (m) and y-intercept (b) for simple linear regression using the Ordinary Least Squares (OLS) method, without any Python library functions, on a dataset of CGPA (independent) and LPA (dependent) from placement.csv.
+- **Assignment 2.py**: Implements the Gradient Descent algorithm for simple linear regression to find optimal slope (m) and intercept (c) values, without using any inbuilt functions, on a small sample dataset.
+- **Assignment 3.py**: Implements simple linear regression using gradient descent to estimate slope and intercept, with a learning rate of 0.01 and 1000 iterations, on a small sample dataset.
 - **Assignment 4.py**: Simple Linear Regression from scratch using Ordinary Least Squares and Gradient Descent, with evaluation metrics and visualization.
 - **placement.csv**: Dataset used in one or more assignments (see respective scripts for details).
 
