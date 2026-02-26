@@ -1,37 +1,39 @@
-# Assignment 4: Simple Linear Regression from Scratch
+# ML Lab Assignments
 
-This project implements Simple Linear Regression using two optimization methods:
-- Ordinary Least Squares (Closed-form)
-- Gradient Descent (Iterative)
+This repository contains solutions to various Machine Learning lab assignments. Each assignment demonstrates a different concept or technique in machine learning, implemented from scratch or using basic libraries (NumPy, Matplotlib). No scikit-learn is used for modeling unless specified.
 
-## Features
-- Synthetic data generation with a linear relationship and Gaussian noise
-- Manual implementation of OLS and Gradient Descent (no scikit-learn)
-- Evaluation using five metrics: MAE, MSE, RMSE, R², Adjusted R²
-- Visualization using Matplotlib
+## Contents
 
-## File Structure
-- `Assignment 4.py`: Main script for data generation, model training, evaluation, and plotting
-- `placement.csv`: (Not used in this assignment, but present in the workspace)
+- **Assignment 1.py**: [Add a brief description of Assignment 1 here.]
+- **Assignment 2.py**: [Add a brief description of Assignment 2 here.]
+- **Assignment 3.py**: [Add a brief description of Assignment 3 here.]
+- **Assignment 4.py**: Simple Linear Regression from scratch using Ordinary Least Squares and Gradient Descent, with evaluation metrics and visualization.
+- **placement.csv**: Dataset used in one or more assignments (see respective scripts for details).
 
-## Requirements
-- Python 3.x
-- NumPy
-- Matplotlib
+## General Instructions
+- All code is written in Python 3.
+- Required libraries: NumPy, Matplotlib (install via `pip install numpy matplotlib`).
+- Run scripts directly using:
+  ```bash
+  python "Assignment X.py"
+  ```
+  Replace `X` with the assignment number.
 
-## How to Run
-1. Install dependencies:
-   ```bash
-   pip install numpy matplotlib
-   ```
-2. Run the script:
-   ```bash
-   python "Assignment 4.py"
-   ```
+## Repository Structure
 
-## Notes
-- Do **not** use scikit-learn for modeling or metrics.
-- You may use NumPy for calculations and Matplotlib for plotting.
+```
+ML-LAB-WORKS/
+├── Assignment 1.py
+├── Assignment 2.py
+├── Assignment 3.py
+├── Assignment 4.py
+├── placement.csv
+└── README.md
+```
 
 ## Author
 Debasmita
+
+---
+
+> For details on each assignment, see the comments at the top of each `.py` file.
