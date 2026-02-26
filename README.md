@@ -8,7 +8,7 @@ This repository contains solutions to various Machine Learning lab assignments. 
 - **Assignment 2.py**: Implements the Gradient Descent algorithm for simple linear regression to find optimal slope (m) and intercept (c) values, without using any inbuilt functions, on a small sample dataset.
 - **Assignment 3.py**: Implements simple linear regression using gradient descent to estimate slope and intercept, with a learning rate of 0.01 and 1000 iterations, on a small sample dataset.
 - **Assignment 4.py**: Simple Linear Regression from scratch using Ordinary Least Squares and Gradient Descent, with evaluation metrics and visualization.
-- **placement.csv**: Dataset used in one or more assignments (see respective scripts for details).
+- **placement.csv**: Dataset used in assignment 1.
 
 ## General Instructions
 - All code is written in Python 3.
